@@ -8,7 +8,7 @@ I care about making AI understandable and trustworthy for real-world users — e
 
 ---
 
-## ✳️ Areas of Focus
+## ✳️ Areas of Interest
 - Explainable AI for healthcare
 - Knowledge-augmented machine learning
 - Human-in-the-loop systems
@@ -29,7 +29,7 @@ I care about making AI understandable and trustworthy for real-world users — e
 ---
 
 ## 🧪 Tools I Work With
-Python, PyTorch, TensorFlow, SHAP, Hugging Face, Azure, REST APIs, SNOMED-CT (medical ontologies), ML Flow,SQL
+Python, PyTorch, TensorFlow, SHAP, Hugging Face, Azure, REST APIs, SNOMED-CT (medical ontologies), ML Flow, SQL
 
 ---
 🔭 Currently Building
@@ -41,16 +41,16 @@ Production ML Templates - Because good AI needs good engineering
 ---
 🌱 Learning & Exploring
 
-Advanced RAG architectures and vector databases
-MLOps best practices (currently pursuing certification)
-Swedish 🇸🇪 (preparing for Nordic opportunities)
+- Advanced RAG architectures & vector databases  
+- MLOps best practices (currently pursuing certification)  
+- Swedish SE — preparing for Nordic opportunities
 ---
-👯 Looking to Collaborate On
+## 🤝 Looking to Collaborate On
 
-Healthcare AI with limited training data
-Explainable AI for high-stakes decisions
-Knowledge graph integration with LLMs
-Open source tools for medical NLP
+- Explainable AI for high-stakes decisions  
+- Healthcare AI with limited training data  
+- Knowledge graph integration with LLMs  
+- Open-source tools for medical NLP
 ---
 
 ## 🎓 Academic Background
