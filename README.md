@@ -56,7 +56,7 @@ Production ML Templates - Because good AI needs good engineering
 ## 🎓 Academic Background
 - MPhil in Linguistics (Computational focus), University of Bergen  
 - Undergraduate in Language & Philosophy  
-- Certifications: Deep Learning Specialization (in progress), Azure Fundamentals, ML Engineer(Datacamp)
+- Certifications: Azure AI Engineer Associate(AI-102), Deep Learning Specialization (in progress), Azure Fundamentals, ML Engineer(Datacamp)
 
 ---
 
