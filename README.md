@@ -1,6 +1,6 @@
 #  Hi, I'm Sam
 
-I'm a machine learning practitioner interested in explainable AI, small data challenges, and healthcare applications.  
+I'm an NLP engineer interested in explainable AI, small data challenges, and healthcare applications.  
 My background is in linguistics, and I approach AI through a language and cognition lens, utilizing context through knowledge graphs, ontologies, and semantic web technologies.  
 
 Currently based in Ghana, I’ve worked on projects ranging from clinical text classification to building semi-autonomous agents for legal reasoning.  
