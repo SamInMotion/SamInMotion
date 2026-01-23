@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sam
+#  Hi, I'm Sam
 
 I'm a machine learning practitioner interested in explainable AI, small data challenges, and healthcare applications.  
 My background is in linguistics, and I approach AI through a language and cognition lens, utilizing context through knowledge graphs, ontologies, and semantic web technologies.  
@@ -8,7 +8,7 @@ I care about making AI understandable and trustworthy for real-world users — e
 
 ---
 
-## ✳️ Areas of Interest
+##  Areas of Interest
 - Explainable AI for healthcare
 - Knowledge-augmented machine learning
 - Human-in-the-loop systems
@@ -16,7 +16,7 @@ I care about making AI understandable and trustworthy for real-world users — e
 
 ---
 
-## 📘 Recent Work
+##  Recent Work
 - **Medical Screening Pipeline**  
   Used ontology-enhanced ML to reduce manual review time from 6 months to 1 week
 
@@ -28,24 +28,23 @@ I care about making AI understandable and trustworthy for real-world users — e
 
 ---
 
-## 🧪 Tools I Work With
+##  Tools I Work With
 Python, PyTorch, TensorFlow, SHAP, Hugging Face, Azure, REST APIs, SNOMED-CT (medical ontologies), ML Flow, SQL
 
 ---
-🔭 Currently Building
+ Currently Building
 
 GDPR AI Compliance Scorer - Automated regulatory checking for healthcare AI systems
-Agentic Medical Assistant - Conversational AI that actually understands clinical context
-Production ML Templates - Because good AI needs good engineering
+
 
 ---
-🌱 Learning & Exploring
+ Learning & Exploring
 
 - Advanced RAG architectures & vector databases  
-- MLOps best practices (currently pursuing certification)  
-- Swedish SE — preparing for Nordic opportunities
+- MLOps best practices   
+
 ---
-## 🤝 Looking to Collaborate On
+##  Looking to Collaborate On
 
 - Explainable AI for high-stakes decisions  
 - Healthcare AI with limited training data  
@@ -53,14 +52,14 @@ Production ML Templates - Because good AI needs good engineering
 - Open-source tools for medical NLP
 ---
 
-## 🎓 Academic Background
+##  Academic Background
 - MPhil in Linguistics (Computational focus), University of Bergen  
 - Undergraduate in Language & Philosophy  
 - Certifications: Azure AI Engineer Associate (AI-102), Deep Learning Specialization (in progress), Azure Fundamentals, ML Engineer(Datacamp)
 
 ---
 
-## 📭 Contact
+##  Contact
 Feel free to reach out — whether you're working on similar problems or just curious.  
 📧 sammy.okmens@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/sammens)  
