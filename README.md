@@ -1,6 +1,6 @@
 # Hi, I'm Sam
 
-NLP engineer with a linguistics background (MPhil, University of Bergen). Most of my work sits at the intersection of medical text and structured knowledge — ontologies, clinical terminologies, that sort of thing.
+NLP engineer with a linguistics background (MPhil, University of Bergen). Most of my work sits at the intersection of medical text and structured knowledge including ontologies, clinical terminologies, that sort of thing.
 
 At Nemoest AS ,I built a RAG-based document retrieval system for Norwegian legal texts. My thesis was on automating article screening for systematic reviews using ontology-enriched classification. More recently I built MedTermCheck, a tool that verifies LLM-extracted medical codes against SNOMED-CT and ICD-10.
 
@@ -10,11 +10,11 @@ Currently based in Ghana, previously Bergen.
 
 ## What I work on
 
-Clinical NLP — classifying medical texts using ontology-based feature enrichment, verifying LLM outputs against structured terminologies
+Clinical NLP: classifying medical texts using ontology-based feature enrichment, verifying LLM outputs against structured terminologies
 
-Legal document retrieval — RAG pipelines for Norwegian regulatory text
+Legal document retrieval: RAG pipelines for Norwegian regulatory text
 
-Explainable ML — SHAP-based interpretation for classification models in healthcare and business contexts
+Explainable ML : SHAP-based interpretation for classification models in healthcare and business contexts
 
 ---
 
