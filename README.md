@@ -1,66 +1,37 @@
-#  Hi, I'm Sam
+# Hi, I'm Sam
 
-I'm an NLP engineer interested in explainable AI, small data challenges, and healthcare applications.  
-My background is in linguistics, and I approach AI through a language and cognition lens, utilizing context through knowledge graphs, ontologies, and semantic web technologies.  
+NLP engineer with a linguistics background (MPhil, University of Bergen). Most of my work sits at the intersection of medical text and structured knowledge — ontologies, clinical terminologies, that sort of thing.
 
-Currently based in Ghana, I’ve worked on projects ranging from clinical text classification to building semi-autonomous agents for legal reasoning.  
-I care about making AI understandable and trustworthy for real-world users — especially in high-stakes fields like medicine.
+At Nemoest AS ,I built a RAG-based document retrieval system for Norwegian legal texts. My thesis was on automating article screening for systematic reviews using ontology-enriched classification. More recently I built MedTermCheck, a tool that verifies LLM-extracted medical codes against SNOMED-CT and ICD-10.
 
----
-
-##  Areas of Interest
-- Explainable AI for healthcare
-- Knowledge-augmented machine learning
-- Human-in-the-loop systems
-- NLP in clinical and legal domains
+Currently based in Ghana, previously Bergen.
 
 ---
 
-##  Recent Work
-- **Medical Screening Pipeline**  
-  Used ontology-enhanced ML to reduce manual review time from 6 months to 1 week
+## What I work on
 
-- **Agentic Legal AI**  
-  Developed LLM-integrated agents with tool-use workflows and validation mechanisms
+Clinical NLP — classifying medical texts using ontology-based feature enrichment, verifying LLM outputs against structured terminologies
 
-- **Churn & Risk Models**  
-  Built interpretable models with uncertainty estimates for business and patient decisions
+Legal document retrieval — RAG pipelines for Norwegian regulatory text
+
+Explainable ML — SHAP-based interpretation for classification models in healthcare and business contexts
 
 ---
 
-##  Tools I Work With
-Python, PyTorch, TensorFlow, SHAP, Hugging Face, Azure, REST APIs, SNOMED-CT (medical ontologies), ML Flow, SQL
+## Stack
 
----
- Currently Building
+Python, scikit-learn, TensorFlow, SHAP, Hugging Face, Gradio, Azure, REST APIs, SNOMED-CT, ICD-10, SQL, MLflow
 
-GDPR AI Compliance Scorer - Automated regulatory checking for healthcare AI systems
-
-
----
- Learning & Exploring
-
-- Advanced RAG architectures & vector databases  
-- MLOps best practices   
-
----
-##  Looking to Collaborate On
-
-- Explainable AI for high-stakes decisions  
-- Healthcare AI with limited training data  
-- Knowledge graph integration with LLMs  
-- Open-source tools for medical NLP
----
-
-##  Academic Background
-- MPhil in Linguistics (Computational focus), University of Bergen  
-- Undergraduate in Language & Philosophy  
-- Certifications: Azure AI Engineer Associate (AI-102), Deep Learning Specialization (in progress), Azure Fundamentals, ML Engineer(Datacamp)
+Certs: Azure AI Engineer Associate (AI-102), Azure Fundamentals, ML Engineer (DataCamp)
 
 ---
 
-##  Contact
-Feel free to reach out — whether you're working on similar problems or just curious.  
-📧 sammy.okmens@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/sammens)  
--The best AI isn't the most complex — it's the one that solves real problems with the data you actually have.
+## Current focus
+
+Extending my thesis classification pipeline with benchmark datasets and cross-validation evaluation
+
+Building out local RAG infrastructure for document retrieval workflows
+
+---
+
+sammy.okmens@gmail.com | [LinkedIn](https://linkedin.com/in/sammens)
