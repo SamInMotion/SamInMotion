@@ -4,7 +4,7 @@ NLP engineer with a linguistics background (MPhil, University of Bergen). Most o
 
 At Nemoest AS ,I built a RAG-based document retrieval system for Norwegian legal texts. My thesis was on automating article screening for systematic reviews using ontology-enriched classification. More recently I built MedTermCheck, a tool that verifies LLM-extracted medical codes against SNOMED-CT and ICD-10.
 
-Currently based in Ghana, previously Bergen.
+
 
 ---
 
