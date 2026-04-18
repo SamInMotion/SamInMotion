@@ -28,9 +28,9 @@ Certs: Azure AI Engineer Associate (AI-102), Azure Fundamentals, ML Engineer (Da
 
 ## Current focus
 
-Extending my thesis classification pipeline with benchmark datasets and cross-validation evaluation
+Extending my thesis classification pipeline with benchmark datasets (Cohen et al. 2006, 2,744 abstracts) and 5-fold cross-validation. Recent finding: mechanical ontology enrichment doesn't reliably improve classification with broader implications for ontology-grounded NLP.
 
-Building out local RAG infrastructure for document retrieval workflows
+Building out local RAG infrastructure for document retrieval workflows.
 
 ---
 
