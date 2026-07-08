@@ -2,8 +2,7 @@
 
 NLP engineer with a linguistics background (MPhil, University of Bergen). Most of my work sits at the intersection of medical text and structured knowledge including ontologies, clinical terminologies, that sort of thing.
 
-At Nemoest AS ,I built a RAG-based document retrieval system for Norwegian legal texts. My thesis was on automating article screening for systematic reviews using ontology-enriched classification. More recently I built MedTermCheck, a tool that verifies LLM-extracted medical codes against SNOMED-CT and ICD-10.
-
+My research focuses on improving the reliability of AI systems operating on expert knowledge domains, particularly healthcare, through ontology-informed NLP, rigorous evaluation, and reproducible machine learning.
 
 
 ---
