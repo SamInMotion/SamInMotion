@@ -1,6 +1,6 @@
 # Hi, I'm Sam
 
-NLP engineer with a linguistics background (Master’s in Linguistics : Computational Specialization, University of Bergen (January 2024)). Most of my work sits at the intersection of medical text and structured knowledge including ontologies, clinical terminologies, that sort of thing.
+I work on applied NLP and language-model applications, with a focus on medical text, structured knowledge, and reliable information extraction and retrieval. I hold a Master’s in Linguistics - Computational Track from the University of Bergen (January 2024).
 
 My research focuses on improving the reliability of AI systems operating on expert knowledge domains, particularly healthcare, through ontology-informed NLP, rigorous evaluation, and reproducible machine learning.
 
