@@ -33,7 +33,7 @@ My research interests centre on the reliability of AI systems operating in exper
 
 **Evaluation of expert and automated indexing:** Investigating how evaluation design affects measured performance differences between expert-assigned and automatically assigned MeSH terms. The Cohen benchmark study compares bag-of-words methods and BiomedBERT under different evaluation conditions.
 
-**Knowledge-grounded retrieval:** Developing document retrieval workflows for reliable access to information in specialised text collections.
+**Local document retrieval infrastructure::** Building a local RAG system with a SQLite and FTS5 foundation, focusing on deterministic document ingestion, versioning, parsing, and retrieval.
 
 ## Contact
 
