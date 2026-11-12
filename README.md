@@ -1,16 +1,18 @@
 # Hi, I'm Sam
 
-I work on applied NLP and language-model applications, with a focus on medical text, structured knowledge, and reliable information extraction and retrieval. I hold a **Master’s in Linguistics - Computational Track from the University of Bergen (January 2024)**.
+Applied NLP researcher and developer working on reliable, knowledge-grounded language AI for biomedical, legal, and regulated-document settings.
 
-My research interests centre on the reliability of AI systems operating in expert knowledge domains, particularly healthcare. I work on biomedical text classification, terminology-informed NLP, knowledge-grounded language applications, and evaluation methods.
+I build and evaluate language-model systems that connect external knowledge to practical workflows. My work focuses on reliable information retrieval, terminology-grounded verification, document understanding, and rigorous evaluation.
 
 ## What I work on
 
-**Clinical and Biomedical NLP:** Medical text classification, structured concept mapping, and verification of LLM-extracted medical information against clinical terminology resources.
+**Biomedical and clinical NLP:** Medical text classification, entity extraction, terminology mapping, and verification of LLM-extracted medical information.
 
-**Knowledge-grounded retrieval:** RAG pipelines for retrieving information from Norwegian regulatory and legal documents.
+**Knowledge-grounded retrieval:**  RAG pipelines for retrieving information from Norwegian regulatory and legal documents.
 
-**Evaluation and Explainable ML:** Experimental evaluation of NLP systems, analysis of classification performance, and SHAP-based interpretation of machine-learning models.
+**Evaluation and reliability:**Experimental evaluation, classification performance, uncertainty, and analysis of failure modes.
+
+**Document intelligence:** Structured extraction, evidence extraction, and rule-based assessment of regulated documents.
 
 ## Technical Stack
 
@@ -18,22 +20,18 @@ My research interests centre on the reliability of AI systems operating in exper
 - **NLP and Language Models:** Hugging Face, PubMedBERT, BiomedBERT, LLM APIs
 - **Retrieval and Applications:** RAG, MongoDB Atlas Vector Search, Gradio, REST APIs
 - **Interpretability and Evaluation:** SHAP, cross-validation, classification metrics
-- **Domain Knowledge:** SNOMED CT, ICD-10
+- **Domain Knowledge:** SNOMED CT, ICD-10,MeSH
 - **Cloud and Deployment:** Azure
 
-## Certifications and Training
 
-- Microsoft Azure AI Engineer Associate (AI-102)
-- Microsoft Azure Fundamentals (AZ-900)
-- DataCamp Machine Learning Engineer training
 
-## Current Research Focus
+## Current Focus
 
-**Evaluating knowledge-informed NLP:** Extending my master's thesis on medical intervention screening and examining whether ontology-based feature enrichment improves classification performance. My work highlights the importance of testing such methods empirically instead of assuming that additional structured knowledge improves results.
+**Extending the Cohen benchmark study on evaluation design and expert-versus-automatic MeSH indexing.
 
-**Evaluation of expert and automated indexing:** Investigating how evaluation design affects measured performance differences between expert-assigned and automatically assigned MeSH terms. The Cohen benchmark study compares bag-of-words methods and BiomedBERT under different evaluation conditions.
+**Improving reproducibility and evaluation documentation for biomedical NLP projects.
 
-**Local document retrieval infrastructure::** Building a local RAG system with a SQLite and FTS5 foundation, focusing on deterministic document ingestion, versioning, parsing, and retrieval.
+**Developing more robust verification and retrieval workflows for regulated-document settings.
 
 ## Contact
 
